@@ -1,4 +1,3 @@
-/node_modulos
 node_modulos/
 .env.local
-empresa.txt
+/empresa.*
