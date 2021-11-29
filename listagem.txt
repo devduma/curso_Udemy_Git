@@ -1,0 +1,2 @@
+Listagem de usuários da plataforma
+Buscar nome, e-mail e ID
